@@ -30,10 +30,10 @@ extremamente difíceis) que o forçarão a estudar e realmente compreender a mat
   
  ### Documentos inseridos no Pset ### 
  
-Documento              | Nome do Arquivo
------------------------|----------------
- Diagrama PDf          | 
- Diagram Architect     | 
- Script Psql           | 
- Script Mysql          | 
+Documento              | Nome do Arquivo                    | Utilidade
+-----------------------|----------------------------------- | -------------
+ Diagrama Architect    | cc1n_202306033_diagrama.architect  | Visualizar o código do diagrama
+ Diagrama PDF          | cc1n_202306033_diagrama.pdf        | Visualizar o banco de dados criado
+ Script Psql           | cc1n_202306033_postgres.sql        | Visualizar o Script do banco de dados utilizando o SGBD postgresql
+ Script Mysql          | cc1n_202306033_mysql.sql           | Visualizar o Script do banco de dados utilizando o SBGD Mysql
  
