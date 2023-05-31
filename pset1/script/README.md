@@ -1,6 +1,6 @@
 # Script do Banco de Dados #
 ## Introdução ##
-<p> nessa pasta está armazenado os scripts do banco de dados, em SQL, um foi fornecido para o SGBD PostgreSQL e outro pro SGBD MySQL, onde será criado um banco de dados, dado o nome de "uvv", tendo suas respectivas tabelas e colunas, e comentários, para ajudar a identificação do que é cada comando.
+<p> nessa pasta está armazenado os scripts do banco de dados, em SQL, um foi fornecido para o SGBD PostgreSQL e outro pro SGBD MySQL, onde será criado um banco de dados, sendo o nome de "uvv", tendo suas respectivas tabelas e colunas, e comentários, para ajudar a identificação do que é cada comando.
   
   ## As Vantagens de cada SGBDs
   ### PostgreSQL ### 
