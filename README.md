@@ -31,10 +31,10 @@ extremamente difíceis) que o forçarão a estudar e realmente compreender a mat
   
  ### Documentos inseridos no Pset ### 
  
-Documento              | Nome do Arquivo                      | Utilidade
------------------------|------------------------------------- | -------------
- Diagrama Architect    | cc1n_202306033_diagrama.architect    | Visualizar o código do diagrama
- Diagrama PDF          | cc1n_202306033_diagrama.pdf          | Visualizar o banco de dados criado
- Script Psql           | cc1n_202306033_postgresql.sql        | Visualizar o Script do banco de dados utilizando o SGBD postgresql
- Script Mysql          | cc1n_202306033_mysql.sql             | Visualizar o Script do banco de dados utilizando o SBGD Mysql
+Documento                            | Nome do Arquivo                      | Utilidade
+-------------------------------------|------------------------------------- | -------------
+ [Diagrama Architect](https://github.com/Guilherme027/uvv_bd1_cc1n/blob/main/pset1/diagramas/cc1n_202306033_diagrama.architect)    | cc1n_202306033_diagrama.architect    | Visualizar o código do diagrama
+ [Diagrama PDF](https://github.com/Guilherme027/uvv_bd1_cc1n/blob/main/pset1/diagramas/cc1n_202306033_diagrama.pdf)                       | cc1n_202306033_diagrama.pdf        | Visualizar o banco de dados criado
+[Script Psql](https://github.com/Guilherme027/uvv_bd1_cc1n/blob/main/pset1/script/cc1n_202306033_postgresql.sql)                         | cc1n_202306033_postgresql.sql      | Visualizar o Script do banco de dados utilizando o SGBD postgresql
+ [Script Mysql](https://github.com/Guilherme027/uvv_bd1_cc1n/blob/main/pset1/script/cc1n_202306033_mysql.sql)                        | cc1n_202306033_mysql.sql             | Visualizar o Script do banco de dados utilizando o SBGD Mysql
  
