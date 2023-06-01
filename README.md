@@ -1,4 +1,4 @@
-# Pset(Problem Set): Primeiro Pset da disciplina de Design e Desenvolvimento de Banco de Dados I
+# Pset(Problem Set): Primeiro Pset da disciplina de Design e Desenvolvimento de Banco de Dados I #
 
 * Aluno: Guilherme dos Santos Souza
 * Turma: CC1N
